@@ -1,0 +1,11 @@
+docker_container.web: Creating...
+docker_container.web: Still creating... [00m10s elapsed]
+docker_container.web: Still creating... [00m20s elapsed]
+docker_container.web: Creation complete after 23s [id=ac99b27a618ce8b8561660d3bbf44c247942c073928f70c10e2c359dd33bf474]
+
+Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
+
+Outputs:
+
+container_id = "ac99b27a618ce8b8561660d3bbf44c247942c073928f70c10e2c359dd33bf474"
+web_url = "http://localhost:8090"
